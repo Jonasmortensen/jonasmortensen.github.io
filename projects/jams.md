@@ -22,6 +22,8 @@ This little game was made as a submission to Nordic Game Jam 2023.
 In the game you play as *Cranberry Daddy* in charge of delivering delicous cranberry joice to your hard working mates at the beach.
 
 #### Lawn and Order
+{% include image.html url="https://jonasmortensen.itch.io/lawn-order" image="projects/jams/lawn.png" %}
+
 
 #### Oink
 {% include image.html url="https://jonasmortensen.itch.io/oink" image="projects/jams/thumbnail.jpg" %}
