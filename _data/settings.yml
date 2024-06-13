@@ -11,10 +11,13 @@ menu:
 # Projects Section
 
 projects:
+- {name: "A Vase", url: 'vase'}
 - {name: 'Volumetric Lighting',   url: 'volumetric'}
 - {name: 'Space Hangar',   url: 'space'}
 - {name: 'Fur Rendering', url: 'fur'}
 - {name: 'URP Sample Scnes',  url: 'sample'}
+- {name: 'Game Jams', url: 'jams'}
+- {name: 'Presentations and Interviews', url: 'interviews'}
 #- {name: 'Project Five',  url: 'proj-5'}
 
 #-------------------------------
