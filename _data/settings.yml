@@ -13,13 +13,12 @@ menu:
 projects:
 - {name: "A Vase", url: 'vase'}
 - {name: 'Volumetric Lighting',   url: 'volumetric'}
+- {name: 'URP Sample Scnes',  url: 'sample'}
 - {name: 'Space Hangar',   url: 'space'}
 - {name: 'Toon Rock', url: 'rock'}
 - {name: 'Fur Rendering', url: 'fur'}
-- {name: 'URP Sample Scnes',  url: 'sample'}
 - {name: 'Game Jams', url: 'jams'}
 - {name: 'Presentations and Interviews', url: 'interviews'}
-#- {name: 'Project Five',  url: 'proj-5'}
 
 #-------------------------------
 # Contact Section
@@ -39,7 +38,7 @@ social:
 # NOTE: Providing SEO information will make this website more searchable on the internet.
 
 seo:
-  description: 'Personal portfolio powered by Jekyll and GitHub Pages '
+  description: 'Portfolio Jonas Mortensen'
   rel-author: 'https://plus.google.com/u/0/#'
   rel-publisher: 'https://plus.google.com/u/0/#'
 
@@ -52,7 +51,7 @@ seo:
 # NOTE: If you want to use Google Analytics for basic web tracking: Just uncomment and enter your UA-Code here.
 
 # If you are not using Google Analytics, please change 'google-ID' to an empty string
-google-analytics-ua: 'UA-112060364-3'
+google-analytics-ua: ''
 
 #-------------------------------
 # Disqus Section

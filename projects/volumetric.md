@@ -29,8 +29,8 @@ title: 'Volumetric Lighting'
 </div>
 
 
-This scene was built to showcase a volumetric lighting system I made for the Universal Render Pipeline in Unity. The volumetric lighting works by rendering particles in to a 3D texture and then ray marching that while sampling shadow maps (Technique described by Nathan Vos in GPU Pro 5). The strength of using particles is that they are very easy to author and don’t require expensive math to get complex behaviour (like a 3D Noise). 
+This scene was built to showcase a volumetric lighting system I made for the Universal Render Pipeline in Unity. The volumetric lighting works by rendering particles in to a 3D texture and then ray marching that while sampling shadow maps (Technique described by Nathan Vos in GPU Pro 5). The benefit of using particles is that they are very easy to author. I can easily make particles come out of vents and manholes. I can use flipbooks and easily make a misty swamp with the system.  
 
 I wanted the environment to be very atmospheric and unnerving. For this I made a custom fog solution that blends seamlessly into the HDRI and has some atmospheric scattering. 
 
-Doing this in shader has the added benefit of making the sky and fog react dynamically to the directional light:
+Doing this in shader has the added benefit of making the sky and fog react dynamically to the directional.
