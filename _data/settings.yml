@@ -13,7 +13,7 @@ menu:
 projects:
 - {name: "A Vase", url: 'vase'}
 - {name: 'Volumetric Lighting',   url: 'volumetric'}
-- {name: 'URP Sample Scnes',  url: 'sample'}
+- {name: 'URP Sample Scenes',  url: 'sample'}
 - {name: 'Procedural tarrain', url: 'terrain'}
 - {name: 'Space Hangar',   url: 'space'}
 - {name: 'Toon Rock', url: 'rock'}

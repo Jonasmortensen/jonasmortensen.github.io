@@ -31,7 +31,7 @@ title: 'A Vase'
 
 I made this project to practice VFX, Animation and Cinematics. It's not finished yet but the major VFX are done so I've uploadet this "work in progress" video. 
 
-Everything is made by me. Models made in blender, pyro simulations in Houdini, animated and rendered in real time in Unity using the Universal Render Pipeline. 
+Everything is made by me. Models made in blender and textured in Substance Painter, pyro simulations are from Houdini, scene is animated and rendered in real time in Unity using the Universal Render Pipeline. 
 
 {% include imagenourl.html image="projects/vase/Explosion1.gif" %}
 
