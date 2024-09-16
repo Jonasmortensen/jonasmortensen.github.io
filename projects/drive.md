@@ -28,10 +28,8 @@ title: 'Fall Drive'
 ></iframe>
 </div>
 
-This scene was built to showcase a volumetric lighting system I made for the Universal Render Pipeline in Unity. The volumetric lighting works by rendering particles in to a 3D texture and then ray marching that while sampling shadow maps (Technique described by Nathan Vos in GPU Pro 5). The benefit of using particles is that they are very easy to author. I can easily make particles come out of vents and manholes. I can use flipbooks and easily make a misty swamp with the system.  
+I wanted to brush up on some modelling skills and thought a car was a nice challenge. I wanted to combine it with my volumetric lighting system built for URP and the result is this nice small scene. Writing the car controller was a lot of fun and a good way to get familiar with 3D physics. All textures, vfx and models are made by me. 
 
-I wanted the environment to be very atmospheric and unnerving. For this I made a custom fog solution that blends seamlessly into the HDRI and has some atmospheric scattering. 
-
-Doing this in shader has the added benefit of making the sky and fog react dynamically to the directional light:
+Below is the highpoly model of the car.
 
 {% include imagenourl.html image="projects/drive/carmodel.jpg" %}
