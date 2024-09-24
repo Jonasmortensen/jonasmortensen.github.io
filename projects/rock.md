@@ -30,4 +30,4 @@ title: 'Toon Rock'
 
 I had this idea for an art style where the environment is rendered in 3D but characters and dynamic objects feel 2D. That resulted in this small proof of concept. 
 
-The rock is a physics simulated 3D mesh but is rendered by an orthographic camera off screen and then put on screen as a billboard. It makes it seems like the rock was 2D animated specifically for this movement but actually it's all rendered real time based on player input. 
+The rock is a physics simulated 3D mesh but is rendered at 20fps by an orthographic camera off screen and then put on screen as a billboard. It makes it seems like the rock was 2D animated specifically for this movement but actually it's all rendered real time based on player input. 
