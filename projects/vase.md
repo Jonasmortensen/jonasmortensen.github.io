@@ -29,9 +29,9 @@ title: 'A Vase'
 ></iframe>
 </div>
 
-I made this project to practice VFX, Animation and Cinematics. It's not finished yet but the major VFX are done so I've uploadet this "work in progress" video. 
+I made this project to practice VFX, Animation and Cinematics. It's not finished yet but the major VFX are done so I've uploaded this "work in progress" video. 
 
-Everything is made by me. Models made in blender and textured in Substance Painter, pyro simulations are from Houdini, scene is animated and rendered in real time in Unity using the Universal Render Pipeline. 
+Everything is made by me. Models made in Blender and textured in Substance Painter, pyro simulations are from Houdini, scene is animated and rendered in real time in Unity using the Universal Render Pipeline. 
 
 {% include imagenourl.html image="projects/vase/Explosion1.gif" %}
 

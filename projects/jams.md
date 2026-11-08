@@ -13,20 +13,20 @@ The games can be played on [itch.io](https://jonasmortensen.itch.io/).
 
 Made in 48 hours at Nordic Game Jam 2024. I was in charge of all art and music as well as writing the player controller.
 
-Inspired by a famous japanese game show the aim of the game is to stack tetris blocks to make them fit the cutout in an approaching wall.
+Inspired by a famous Japanese game show the aim of the game is to stack tetris blocks to make them fit the cutout in an approaching wall.
 
 #### Cranberry Daddy
 {% include image.html url="https://jurganson.itch.io/cranberry-dad" image="projects/jams/cranberry.jpeg" %}
 This little game was made as a submission to Nordic Game Jam 2023.
 
-In the game you play as *Cranberry Daddy* in charge of delivering delicous cranberry juice to your hard working mates at the beach.
+In the game you play as *Cranberry Daddy* in charge of delivering delicious cranberry juice to your hard working mates at the beach.
 
 #### Lawn and Order
 {% include image.html url="https://jonasmortensen.itch.io/lawn-order" image="projects/jams/lawn.png" %}
 
 This was made for the Lost Relic Game Jam.
 
-The game is pretty hard and sees you as a kid trying to engineer your way out of mowing the lawn using oscccilation modules and a wires. 
+The game is pretty hard and sees you as a kid trying to engineer your way out of mowing the lawn using oscillation modules and wires. 
 
 I worked on art, music and gameplay. 
 

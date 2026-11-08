@@ -30,4 +30,4 @@ title: 'Space Hangar'
 
 I created this scene to practice making decals in Substance Designer.
 
-I modelled everything in blender and starting building decals for dirt and cracks. Even the broken wire in the roof is a decal and doesn’t rely on any geometry (it’s using using Parallax Occlusion Mapping to create the illusion of depth).
+I modelled everything in Blender and started building decals for dirt and cracks. Even the broken wire in the roof is a decal and doesn’t rely on any geometry (it’s using Parallax Occlusion Mapping to create the illusion of depth).
