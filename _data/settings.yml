@@ -11,18 +11,18 @@ menu:
 # Projects Section
 
 projects:
+- {name: 'Road tooling in Unreal Engine', url: 'roads'}
+- {name: 'Procedural Planet', url: 'planet'}
+- {name: 'URP Sample Scenes',  url: 'sample'}
+- {name: 'Presentations and Interviews', url: 'interviews'}
 - {name: "A Vase", url: 'vase'}
 - {name : "Fall Drive", url: 'drive'}
 - {name: 'Volumetric Lighting',   url: 'volumetric'}
-- {name: 'URP Sample Scenes',  url: 'sample'}
 - {name: 'Procedural Terrain', url: 'terrain'}
-- {name: 'Procedural Planet', url: 'planet'}
-- {name: 'Road tooling in Unreal Engine', url: 'roads'}
 - {name: 'Space Hangar',   url: 'space'}
 - {name: 'Toon Rock', url: 'rock'}
 - {name: 'Fur Rendering', url: 'fur'}
 - {name: 'Game Jams', url: 'jams'}
-- {name: 'Presentations and Interviews', url: 'interviews'}
 
 #-------------------------------
 # Contact Section
