@@ -8,7 +8,7 @@ title: 'Road tooling in Unreal Engine'
 {% include imagenourl.html image="projects/roads/cobbleRoad.png" %}
 {% include imagenourl.html image="projects/roads/Path.png" %}
 
-In 2025/2026 I worked at Raw Power Games on their ambitious sandbox war game Chronicles: Medieval. I was part of the procedural generation team more specifically working on terrain and settlement generation. This included building a suite of road tools for artists and designers to control where roads go, and how they look. 
+In 2025/2026 I worked at Raw Power Games on their ambitious sandbox war game Chronicles: Medieval. I was part of the procedural generation team more specifically working on terrain and settlement generation. This included building a suite of road tools for artists and designers to control where roads go, and how they look. This game me extensive experience with Unreal Engine and its Procedural Content Generation framework (PCG).
 
 {% include imagenourl.html image="projects/roads/SettlementNetwork.png" %}
 

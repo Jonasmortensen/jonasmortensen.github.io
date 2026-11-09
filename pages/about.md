@@ -14,7 +14,8 @@ I work as a Technical Artist at Unity where I provide feedback on artist workflo
 I'm pretty good at:
 
 - Real Time Graphics
-- Unity, Blender, Houdini, Substance Suite
+- Unreal Engine, Unity, Blender, Houdini, Substance Suite, Gaea
+- Writing C++
 - Writing C#
 - Writing HLSL
 - Modelling
