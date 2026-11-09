@@ -5,17 +5,36 @@ title: 'Procedural Planet'
 
 {% include imagenourl.html image="projects/planet/thumbnail.jpg" %}
 
-This personal project is an expriment with a new data model for procedural planets.
+This personal project is an experiment with a new data model for procedural planets.
 
- Playing games like *No Mans Sky* I was always distracted by the ovbious reliance on procedural noises and often thought it yielded uninteresting results. On the contrary I was always impressed with the artistic control that algorithms like Wave Function Collapse (WFC) provide for procedural generation. So my idea was to generate huge organic worlds based on data from a wave function collapse solution on a grid that is subdivided based on camera distance.
+{% include imagenourl.html image="projects/planet/Orbit.png" %}
 
- In the animation below you can see how the WFC solver is used to generate the coastline of the landmasses on the planet. 
+{% include imagenourl.html image="projects/planet/View3.png" %}
 
-The actual height data is coming from prebaked terrain maps that are also distributed with a WFC solver. 
+Playing games like *No Man's Sky* I was always distracted by the obvious reliance on procedural noises and often thought it yielded uninteresting results. On the contrary I was always impressed with the artistic control that algorithms like Wave Function Collapse (WFC) provide for procedural generation.
+
+{% include imagenourl.html image="projects/planet/DataCoarse.png" %}
+
+So my idea was to generate huge organic worlds based on data from a wave function collapse solution on an irregular grid wrapped around a planet.
+
+{% include imagenourl.html image="projects/planet/DataFinest.png" %}
+
+As the camera moves closer to the surface, the WFC grid is subdivided allowing for finer details. This debug view shows the weights driving the landscape height data.
+
+The actual height data is coming from prebaked terrain maps that are also distributed using a WFC solver.
 
 Rendering features on the planet project:
-- CPU Side mesh generation using the Unity Burst compiled Jobs
-- Water rendering with gerstner waves supporting refraction and Screen Space Reflections
-- Volumetric Cloud Rendering
+- CPU-side mesh generation using Unity Burst-compiled jobs
+- Water rendering with Gerstner waves supporting refraction and Screen Space Reflections
+- Volumetric cloud rendering
 - Realistic atmosphere
 
+{% include imagenourl.html image="projects/planet/Beach.png" %}
+
+{% include imagenourl.html image="projects/planet/Clouds.png" %}
+
+{% include imagenourl.html image="projects/planet/Cloudy.png" %}
+
+{% include imagenourl.html image="projects/planet/Ocean.png" %}
+
+{% include imagenourl.html image="projects/planet/View2.png" %}
